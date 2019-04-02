@@ -1,2 +1,3 @@
 # hello-world
-To test GitHub and learn how to do
+
+In the editor, write a bit about yourself.
